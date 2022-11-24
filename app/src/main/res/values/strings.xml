@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">お絵描きDX</string>
+    <string name="title_exit">終了しますか？</string>
+    <string name="button_ok">はい</string>
+    <string name="button_cancel">いいえ</string>
+    <string name="menu_save">保存</string>
+    <string name="menu_open">開く</string>
+    <string name="menu_color_change">色の変更</string>
+    <string name="menu_new">新規作成</string>
+    <string name="menu_font_size">線の太さ</string>
+    <string name="menu_font_size_s">細い</string>
+    <string name="menu_font_size_m">普通</string>
+    <string name="menu_font_size_l">太い</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
